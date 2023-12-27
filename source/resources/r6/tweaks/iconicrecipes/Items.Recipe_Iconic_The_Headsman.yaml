@@ -1,0 +1,89 @@
+Items.Recipe_Iconic_The_Headsman_inline0:
+  $type: gamedataCraftingResult_Record
+  amount: 1
+  item: Items.Preset_Tactician_Headsman
+
+Items.Recipe_Iconic_The_Headsman:
+  $type: gamedataItemRecipe_Record
+  craftingResult: Items.Recipe_Iconic_The_Headsman_inline0
+  animFeatureName: ItemData
+  animName: ui_garment_pose
+  animSetResource: ''
+  crosshair: Crosshairs.None
+  deprecated: False
+  dropObject: defaultItemDrop
+  enableNpcRPGData: False
+  friendlyName: ''
+  garmentOffset: 0
+  icon: UIIcon.ItemIcon
+  iconPath: ''
+  isCached: False
+  isCoreCW: False
+  isCustomizable: False
+  isGarment: False
+  isPart: False
+  isSingleInstance: True
+  itemType: ItemType.Gen_Misc
+  localizedName: ''
+  mass: 1
+  minigameInstance: minigame_v2.DefaultItemMinigame
+  powerLevelDeterminedByParent: False
+  quality: Quality.Random
+  qualityRestrictedByParent: False
+  replicateWhenNotActive: False
+  upgradeCostMult: 1
+  useHeadgearGarmentAggregator: False
+  useNewSpawnMethod: False
+  usesVariants: False
+  savable: False
+  hideOnItemsAdded: []
+  animationParameters: []
+  appearanceSuffixes: []
+  appearanceSuffixesOwnerOverride: []
+  attachmentSlots: []
+  buyPrice:
+    - Price.Recipe
+    - Price.ItemQualityMultiplier
+    - Price.BuyPrice_StreetCred_Discount
+    - Price.IconicRecipe
+    - Price.BaseWeaponPrice
+  cameraForward: {x: 0, y: 0, z: 0}
+  cameraUp: {x: 0, y: 0, z: 0}
+  connections: []
+  displayName: LocKey#40620
+  equipAreas: []
+  equipPrereqs: []
+  gameplayRestrictions:
+    - GameplayRestriction.VehicleCombatNoInterruptions
+  hairSkinnedMeshComponents: []
+  OnAttach: []
+  OnEquip: []
+  OnLooted: []
+  parts: []
+  placementSlots: []
+  previewBBoxOverride: []
+  requiredSlots: []
+  sellPrice:
+    - Price.Recipe
+    - Price.ItemQualityMultiplier
+    - Price.IconicRecipe
+    - Price.SellMultiplier
+    - Price.BaseWeaponPrice
+  slotPartList: []
+  slotPartListPreset: []
+  tags:
+    - Recipe
+    - SkipActivityLogOnRemove
+    - HideInBackpackUI
+  variants: []
+  visualTags: []
+  effectors: []
+  objectActions:
+    - ItemAction.Drop
+    - ItemAction.Disassemble
+  statModifierGroups: []
+  statModifiers:
+    - Quality.IconicItem
+    - Quality.ScaleRandomQualityWithLevel
+  statPools: []
+  weakspots: []
