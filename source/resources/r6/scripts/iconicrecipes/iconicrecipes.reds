@@ -15,6 +15,7 @@ protected cb func RegisterICONICRECIPESStore(event: ref<VirtualShopRegistration>
       "Items.Recipe_Iconic_Butchers_Cleaver",
       "Items.Recipe_Iconic_Buzzsaw",
       "Items.Recipe_Iconic_Byakko",
+      "Items.Recipe_Iconic_Caretakers_Spade",
       "Items.Recipe_Iconic_Chaos",
       "Items.Recipe_Iconic_Cocktail_Stick",
       "Items.Recipe_Iconic_Comrades_Hammer",
@@ -68,7 +69,7 @@ protected cb func RegisterICONICRECIPESStore(event: ref<VirtualShopRegistration>
       "Random", "Random", "Random", "Random", "Random", "Random", "Random", "Random", "Random", "Random",
       "Random", "Random", "Random", "Random", "Random", "Random", "Random", "Random", "Random", "Random",
       "Random", "Random", "Random", "Random", "Random", "Random", "Random", "Random", "Random", "Random",
-      "Random", "Random", "Random", "Random"
+      "Random", "Random", "Random", "Random", "Random"
     ],
     [
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
@@ -76,7 +77,7 @@ protected cb func RegisterICONICRECIPESStore(event: ref<VirtualShopRegistration>
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
-      1, 1, 1, 1
+      1, 1, 1, 1, 1
     ]
   );
 }
