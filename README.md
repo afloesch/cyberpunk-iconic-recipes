@@ -6,6 +6,21 @@ Cyberpunk 2077 mod which adds crafting recipes for all base game iconic weapons,
 
 - [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)
 
+## Known Issues
+- Some weapon recipes will disappear after the weapon is crafted. I have tried a number of ways to prevent this behavior but there is some core game logic for these iconics which is not preventable. 
+
+  Affected recipes:
+  - Ba Xing Chong
+  - Breakthrough
+  - Buzzsaw
+  - Comrade's Hammer
+  - Moron Labe
+  - Psalm 11:6
+  - Sovereign
+  - The Headsman
+  - Yinglong
+- To use these recipes with Preem Weaponsmith, change the Preem Weaponsmith mod settings to use sandbox mode.
+
 ## Commands
 
 Recipes can also be added through CET console commands. Replace `<name>` in the below command with the iconic recipe name.
