@@ -6,8 +6,11 @@ Cyberpunk 2077 mod which adds crafting recipes for all base game iconic weapons,
 
 - [Virtual Atelier](https://www.nexusmods.com/cyberpunk2077/mods/2987)
 
+![Store](/docs/image/store.jpg "Store")
+![Store Items](/docs/image/items.jpg "Store Items")
+
 ## Known Issues
-- Some weapon recipes will disappear after the weapon is crafted. I have tried a number of ways to prevent this behavior but there is some core game logic for these iconics which is not preventable. 
+- Some weapon recipes will disappear after the weapon is crafted. I have tried a number of ways to prevent this behavior but there is some core game logic for these iconics which is not easily preventable. 
 
   Affected recipes:
   - Ba Xing Chong
